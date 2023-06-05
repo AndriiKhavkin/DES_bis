@@ -1,0 +1,6 @@
+D:\Users\Andre\RiderProjects\DES_bis\DES_bis\bin\Debug\DES_bis.exe
+D:\Users\Andre\RiderProjects\DES_bis\DES_bis\bin\Debug\DES_bis.pdb
+D:\Users\Andre\RiderProjects\DES_bis\DES_bis\obj\Debug\DES_bis.csproj.AssemblyReference.cache
+D:\Users\Andre\RiderProjects\DES_bis\DES_bis\obj\Debug\DES_bis.csproj.CoreCompileInputs.cache
+D:\Users\Andre\RiderProjects\DES_bis\DES_bis\obj\Debug\DES_bis.exe
+D:\Users\Andre\RiderProjects\DES_bis\DES_bis\obj\Debug\DES_bis.pdb
